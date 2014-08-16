@@ -4,8 +4,7 @@
  * Module dependencies.
  */
 var mongoose = require('mongoose'),
-  Schema = mongoose.Schema,
-    db=require('seraph');
+  Schema = mongoose.Schema;
 
 
 /**
